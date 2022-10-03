@@ -1,0 +1,24 @@
+table {
+    width: 90%;
+    border: 1px solid black;
+  }
+.header{
+    display: flex; 
+    justify-content: space-between;
+}
+.mat-form-field {
+    width: 46% !important;
+    border: 2px solid black;
+    margin-left: 25%;
+}  
+
+.ParentDiv{
+    display: flex;
+}
+.selectTab{
+    font-size: 15px;
+    font-weight: bold;
+}
+.highlight{
+    background-color: grey;
+}
